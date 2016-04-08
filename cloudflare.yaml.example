@@ -1,0 +1,7 @@
+---
+username: me@example.com
+token: big-secret-token-from-cloudflare
+tld: example.com
+zones: 
+ - a.example.com
+ - b.example.com
